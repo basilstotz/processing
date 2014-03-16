@@ -1,0 +1,53 @@
+BufferedReader reader;
+String line;
+PImage bild;
+
+void setup() {
+  bild=createImage(6000, 6000, ARGB);
+  // Open the file from the createWriter() example
+  try {
+    reader = createReader("srtm_38_03.asc");  
+    for (int i=0;i<6;i++)line=reader.readLine();
+    for (int i=0;i<6000;i++) {
+      print(i+" ");
+      line = reader.readLine();
+      String[] pieces = split(line, ' ');
+      for (int j=0;j<pieces.length;j++) {
+        bild.set(j, i, intToColor(10*int(pieces[j])));
+      }
+    }
+    bild.save("srtm_38_03.tif");
+  }
+  catch( IOException e) {
+  }
+  finally {
+  } 
+  noLoop();
+}
+
+
+color intToColor(int _val) {
+  int a=floor(_val/pow(2, 24));
+  _val-=a*pow(2, 24);
+  int r=floor(_val/pow(2, 16));
+  _val-=r*pow(2, 16);
+  int g=floor(_val/pow(2, 8));
+  _val-=g*pow(2, 8);
+  int b=floor(_val);
+  return(color(r, g, b, a));
+}
+
+float colorToInt(color c){
+  float a=255; // war: alpha(c);
+  float r=red(c);
+  float g=green(c);
+  float b=blue(c);
+  return(a*pow(2, 24)+r*pow(2, 16)+g*pow(2, 8)+b);
+}
+
+
+void draw() {
+  noLoop();
+}
+
+

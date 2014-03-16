@@ -1,0 +1,6 @@
+osmfilter32 schweiz.o5m \ 
+\
+--keep="place=" \ 
+\ #--keep-tags="all  place=  natural= landuse= waterway= name= ele= type=" \
+\
+-o=schweiz-nature.o5m

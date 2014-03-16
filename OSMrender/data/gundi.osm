@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+     <bounds maxlat="47.548264" maxlon="7.6063156" minlat="47.53737" minlon="7.581253"/>
+     <node lat="47.542988" lon="7.596991">
+          <tag k="name" v="Basel"/>
+          <tag k="place" v="city"/>
+     </node>
+     <node lat="47.54334" lon="7.5896635">
+          <tag k="name" v="Avia"/>
+          <tag k="place" v="Gundeldingen"/>
+     </node>
+     <node lat="47.54677" lon="7.5857153">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54646" lon="7.5861864">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.546" lon="7.584693">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54526" lon="7.5820065">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545715" lon="7.581457">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54586" lon="7.5815506">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545532" lon="7.582315">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.546" lon="7.5818086">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54579" lon="7.581512">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545105" lon="7.581748">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545902" lon="7.5817304">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545746" lon="7.582325">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54591" lon="7.5814075">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54582" lon="7.5813785">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545723" lon="7.5813346">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54519" lon="7.581892">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545628" lon="7.581344">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545662" lon="7.582419">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545887" lon="7.581501">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54534" lon="7.582097">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544334" lon="7.58786">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54495" lon="7.588066">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544735" lon="7.587664">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545017" lon="7.587951">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54441" lon="7.5879245">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544373" lon="7.587624">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54452" lon="7.5876026">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544796" lon="7.5879116">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54405" lon="7.5877748">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.5447" lon="7.587944">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54485" lon="7.58806">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54446" lon="7.587418">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54406" lon="7.58771">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54477" lon="7.5878024">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544895" lon="7.5880065">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545258" lon="7.587183">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545425" lon="7.5858593">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544704" lon="7.587035">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545418" lon="7.585118">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545338" lon="7.5853114">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54493" lon="7.5868406">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545834" lon="7.583943">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545307" lon="7.5853815">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54476" lon="7.58718">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54532" lon="7.5857797">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545364" lon="7.58679">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54537" lon="7.585241">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544838" lon="7.586778">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54477" lon="7.5865555">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545506" lon="7.585924">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544647" lon="7.5867715">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.545395" lon="7.585175">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544983" lon="7.586934">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54545" lon="7.5850344">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544365" lon="7.58134">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54467" lon="7.581431">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544415" lon="7.581436">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54463" lon="7.5816507">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544544" lon="7.5815716">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.544296" lon="7.5813127">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54447" lon="7.5814977">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.543163" lon="7.598505">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54318" lon="7.597888">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54323" lon="7.5982924">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.543243" lon="7.598458">
+          <tag k="natural" v="tree"/>
+     </node>
+     <node lat="47.54339" lon="7.59704">
+          <tag k="natural" v="tree"/>
+     </node>
+     <way>
+          <node lat="47.543304" lon="7.581892"/>
+          <node lat="47.543274" lon="7.5819936"/>
+          <node lat="47.54314" lon="7.5823975"/>
+          <node lat="47.543015" lon="7.582698"/>
+          <node lat="47.54285" lon="7.5832133"/>
+          <node lat="47.54277" lon="7.583369"/>
+          <node lat="47.542694" lon="7.5836864"/>
+          <node lat="47.54269" lon="7.5839353"/>
+          <node lat="47.54291" lon="7.5842443"/>
+          <node lat="47.542286" lon="7.5861754"/>
+          <node lat="47.54211" lon="7.5867505"/>
+          <node lat="47.54199" lon="7.5867076"/>
+          <node lat="47.542057" lon="7.5862784"/>
+          <node lat="47.54211" lon="7.5861583"/>
+          <node lat="47.54211" lon="7.585772"/>
+          <node lat="47.54243" lon="7.5850253"/>
+          <node lat="47.542515" lon="7.5849137"/>
+          <node lat="47.542526" lon="7.5844502"/>
+          <node lat="47.54237" lon="7.5843043"/>
+          <node lat="47.54209" lon="7.5847936"/>
+          <node lat="47.541973" lon="7.584991"/>
+          <node lat="47.541878" lon="7.584991"/>
+          <node lat="47.541786" lon="7.58524"/>
+          <node lat="47.541805" lon="7.5854115"/>
+          <node lat="47.54165" lon="7.585626"/>
+          <node lat="47.541588" lon="7.585961"/>
+          <node lat="47.54144" lon="7.5861754"/>
+          <node lat="47.541462" lon="7.5864244"/>
+          <node lat="47.54137" lon="7.586905"/>
+          <node lat="47.541283" lon="7.586855"/>
+          <node lat="47.540997" lon="7.5867076"/>
+          <node lat="47.541336" lon="7.5858493"/>
+          <node lat="47.541336" lon="7.5856776"/>
+          <node lat="47.541363" lon="7.5852313"/>
+          <node lat="47.541264" lon="7.585051"/>
+          <node lat="47.540974" lon="7.5849223"/>
+          <node lat="47.54086" lon="7.584931"/>
+          <node lat="47.540565" lon="7.58548"/>
+          <node lat="47.540356" lon="7.5860553"/>
+          <node lat="47.540146" lon="7.586244"/>
+          <node lat="47.53966" lon="7.586081"/>
+          <node lat="47.539444" lon="7.585935"/>
+          <node lat="47.539684" lon="7.5857806"/>
+          <node lat="47.540012" lon="7.585729"/>
+          <node lat="47.5402" lon="7.5856175"/>
+          <node lat="47.540268" lon="7.58518"/>
+          <node lat="47.54038" lon="7.584725"/>
+          <node lat="47.540565" lon="7.584287"/>
+          <node lat="47.541477" lon="7.58415"/>
+          <node lat="47.541874" lon="7.5832314"/>
+          <node lat="47.54218" lon="7.5819783"/>
+          <node lat="47.54239" lon="7.5813527"/>
+          <node lat="47.54247" lon="7.5809555"/>
+          <node lat="47.542156" lon="7.580388"/>
+          <node lat="47.542187" lon="7.580289"/>
+          <node lat="47.542484" lon="7.5806594"/>
+          <node lat="47.542606" lon="7.5807285"/>
+          <node lat="47.542664" lon="7.580654"/>
+          <node lat="47.542866" lon="7.5802298"/>
+          <node lat="47.542904" lon="7.580054"/>
+          <node lat="47.542953" lon="7.580025"/>
+          <node lat="47.54301" lon="7.579907"/>
+          <node lat="47.54308" lon="7.57997"/>
+          <node lat="47.54307" lon="7.580129"/>
+          <node lat="47.543003" lon="7.5805573"/>
+          <node lat="47.542965" lon="7.5807204"/>
+          <node lat="47.54298" lon="7.580855"/>
+          <node lat="47.54308" lon="7.5809174"/>
+          <node lat="47.54325" lon="7.580907"/>
+          <node lat="47.54341" lon="7.58094"/>
+          <node lat="47.543655" lon="7.5810604"/>
+          <node lat="47.54381" lon="7.5815"/>
+          <node lat="47.543514" lon="7.581277"/>
+          <node lat="47.543304" lon="7.581892"/>
+          <tag k="natural" v="wood"/>
+     </way>
+     <way>
+          <node lat="47.54087" lon="7.579498"/>
+          <node lat="47.54069" lon="7.5804377"/>
+          <node lat="47.540447" lon="7.580325"/>
+          <node lat="47.540253" lon="7.581342"/>
+          <node lat="47.541023" lon="7.581688"/>
+          <node lat="47.54088" lon="7.582397"/>
+          <node lat="47.5401" lon="7.5820622"/>
+          <node lat="47.540226" lon="7.581355"/>
+          <node lat="47.539486" lon="7.5810666"/>
+          <node lat="47.53973" lon="7.5796647"/>
+          <node lat="47.539852" lon="7.5796976"/>
+          <node lat="47.53997" lon="7.57906"/>
+          <node lat="47.540028" lon="7.5788674"/>
+          <node lat="47.54087" lon="7.579498"/>
+          <tag k="landuse" v="allotments"/>
+     </way>
+     <way>
+          <node lat="47.538258" lon="7.584871"/>
+          <node lat="47.539078" lon="7.58521"/>
+          <node lat="47.539318" lon="7.585293"/>
+          <node lat="47.539474" lon="7.5853086"/>
+          <node lat="47.53971" lon="7.585261"/>
+          <node lat="47.540188" lon="7.585168"/>
+          <node lat="47.540066" lon="7.585622"/>
+          <node lat="47.539986" lon="7.5856957"/>
+          <node lat="47.53987" lon="7.585717"/>
+          <node lat="47.539715" lon="7.58573"/>
+          <node lat="47.539665" lon="7.5857377"/>
+          <node lat="47.539455" lon="7.58581"/>
+          <node lat="47.53924" lon="7.5858235"/>
+          <node lat="47.53891" lon="7.585669"/>
+          <node lat="47.538628" lon="7.5855503"/>
+          <node lat="47.538425" lon="7.585495"/>
+          <node lat="47.53825" lon="7.585519"/>
+          <node lat="47.538113" lon="7.5856175"/>
+          <node lat="47.538258" lon="7.584871"/>
+          <tag k="landuse" v="allotments"/>
+     </way>
+     <way>
+          <node lat="47.535736" lon="7.5816946"/>
+          <node lat="47.53574" lon="7.581676"/>
+          <node lat="47.535748" lon="7.5815935"/>
+          <node lat="47.53563" lon="7.5814075"/>
+          <node lat="47.535297" lon="7.5812902"/>
+          <node lat="47.534664" lon="7.5811243"/>
+          <node lat="47.534798" lon="7.578521"/>
+          <node lat="47.53494" lon="7.5786123"/>
+          <node lat="47.536003" lon="7.5788755"/>
+          <node lat="47.53656" lon="7.5789313"/>
+          <node lat="47.538074" lon="7.5786576"/>
+          <node lat="47.538013" lon="7.579412"/>
+          <node lat="47.539658" lon="7.579695"/>
+          <node lat="47.539436" lon="7.5810704"/>
+          <node lat="47.540215" lon="7.5813637"/>
+          <node lat="47.54008" lon="7.5820737"/>
+          <node lat="47.540882" lon="7.5824428"/>
+          <node lat="47.540474" lon="7.5843716"/>
+          <node lat="47.54034" lon="7.58475"/>
+          <node lat="47.540188" lon="7.58516"/>
+          <node lat="47.53971" lon="7.5852513"/>
+          <node lat="47.539474" lon="7.5852933"/>
+          <node lat="47.539318" lon="7.5852785"/>
+          <node lat="47.53908" lon="7.5851946"/>
+          <node lat="47.538235" lon="7.584841"/>
+          <node lat="47.53803" lon="7.585674"/>
+          <node lat="47.53781" lon="7.585917"/>
+          <node lat="47.537712" lon="7.5859847"/>
+          <node lat="47.53757" lon="7.585998"/>
+          <node lat="47.535812" lon="7.5849795"/>
+          <node lat="47.535122" lon="7.5845113"/>
+          <node lat="47.53533" lon="7.5838757"/>
+          <node lat="47.535454" lon="7.583441"/>
+          <node lat="47.53562" lon="7.5832067"/>
+          <node lat="47.53583" lon="7.5822997"/>
+          <node lat="47.535595" lon="7.5821733"/>
+          <node lat="47.535675" lon="7.5817537"/>
+          <node lat="47.535736" lon="7.5816946"/>
+          <tag k="landuse" v="farmland"/>
+     </way>
+     <way>
+          <node lat="47.543655" lon="7.5810604"/>
+          <node lat="47.54341" lon="7.58094"/>
+          <node lat="47.54325" lon="7.580907"/>
+          <node lat="47.54308" lon="7.5809174"/>
+          <node lat="47.54298" lon="7.580855"/>
+          <node lat="47.542965" lon="7.5807204"/>
+          <node lat="47.543003" lon="7.5805573"/>
+          <node lat="47.54307" lon="7.580129"/>
+          <node lat="47.54308" lon="7.57997"/>
+          <node lat="47.54301" lon="7.579907"/>
+          <node lat="47.542953" lon="7.580025"/>
+          <node lat="47.542904" lon="7.580054"/>
+          <node lat="47.542866" lon="7.5802298"/>
+          <node lat="47.542664" lon="7.580654"/>
+          <node lat="47.542606" lon="7.5807285"/>
+          <node lat="47.542484" lon="7.5806594"/>
+          <node lat="47.542187" lon="7.580289"/>
+          <node lat="47.542156" lon="7.580388"/>
+          <node lat="47.54247" lon="7.5809555"/>
+          <node lat="47.54239" lon="7.5813527"/>
+          <node lat="47.54214" lon="7.582041"/>
+          <node lat="47.542015" lon="7.5825634"/>
+          <node lat="47.54101" lon="7.5821047"/>
+          <node lat="47.541447" lon="7.5798693"/>
+          <node lat="47.541843" lon="7.580169"/>
+          <node lat="47.54188" lon="7.580024"/>
+          <node lat="47.541977" lon="7.579397"/>
+          <node lat="47.54212" lon="7.5789547"/>
+          <node lat="47.54227" lon="7.5789423"/>
+          <node lat="47.542614" lon="7.579136"/>
+          <node lat="47.542595" lon="7.578895"/>
+          <node lat="47.542667" lon="7.57857"/>
+          <node lat="47.542774" lon="7.57845"/>
+          <node lat="47.543232" lon="7.5785146"/>
+          <node lat="47.543415" lon="7.5785346"/>
+          <node lat="47.543533" lon="7.5785346"/>
+          <node lat="47.5436" lon="7.5784492"/>
+          <node lat="47.543674" lon="7.5785007"/>
+          <node lat="47.543755" lon="7.578733"/>
+          <node lat="47.54377" lon="7.5795646"/>
+          <node lat="47.543682" lon="7.580522"/>
+          <node lat="47.543655" lon="7.5810604"/>
+          <tag k="landuse" v="farmland"/>
+     </way>
+     <way>
+          <node lat="47.54816" lon="7.581157"/>
+          <node lat="47.5482" lon="7.581164"/>
+          <node lat="47.548244" lon="7.581199"/>
+          <node lat="47.54828" lon="7.5812488"/>
+          <node lat="47.548298" lon="7.581328"/>
+          <node lat="47.548336" lon="7.5813956"/>
+          <node lat="47.548363" lon="7.5814285"/>
+          <node lat="47.548374" lon="7.581446"/>
+          <node lat="47.54835" lon="7.58149"/>
+          <node lat="47.548325" lon="7.581592"/>
+          <node lat="47.5483" lon="7.5817475"/>
+          <node lat="47.54829" lon="7.581787"/>
+          <node lat="47.548256" lon="7.5817533"/>
+          <node lat="47.54823" lon="7.5817065"/>
+          <node lat="47.548244" lon="7.5816197"/>
+          <node lat="47.548157" lon="7.581539"/>
+          <node lat="47.548157" lon="7.581503"/>
+          <node lat="47.548107" lon="7.5814223"/>
+          <node lat="47.548115" lon="7.581285"/>
+          <node lat="47.54816" lon="7.581157"/>
+          <tag k="natural" v="beach"/>
+     </way>
+     <way>
+          <node lat="47.54686" lon="7.605963"/>
+          <node lat="47.545727" lon="7.6045356"/>
+          <node lat="47.545444" lon="7.603705"/>
+          <node lat="47.546326" lon="7.6020565"/>
+          <node lat="47.547943" lon="7.603873"/>
+          <node lat="47.54686" lon="7.605963"/>
+          <tag k="landuse" v="meadow"/>
+     </way>
+     <way>
+          <node lat="47.54525" lon="7.602708"/>
+          <node lat="47.545345" lon="7.6028504"/>
+          <node lat="47.545357" lon="7.6029053"/>
+          <node lat="47.54535" lon="7.6029496"/>
+          <node lat="47.545334" lon="7.6029816"/>
+          <node lat="47.545307" lon="7.6030297"/>
+          <node lat="47.545265" lon="7.6031065"/>
+          <node lat="47.54524" lon="7.60316"/>
+          <node lat="47.545227" lon="7.603167"/>
+          <node lat="47.54522" lon="7.6031427"/>
+          <node lat="47.54524" lon="7.602838"/>
+          <node lat="47.54524" lon="7.602727"/>
+          <node lat="47.54525" lon="7.602708"/>
+          <tag k="landuse" v="meadow"/>
+     </way>
+</osm>
+

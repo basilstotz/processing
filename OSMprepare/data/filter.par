@@ -1,0 +1,23 @@
+--drop-author 
+
+//--keep=
+//natural=bare_rock =fell =grassland =heath =mud =sand =scrub =stone =tree =tree_row =wetland =wood =bay =beach =spring =water =arete =cave_entra//nce =cliff =glacier =peak =ridge =rock =saddle =scree =sinkhole =volcano
+//place=city =town =village =hamlet =isolated_dwelling =farm 
+//landuse=allotments =basin =farm =farmland =farmyard =forest =grass =greenield =industrial =meadow =orchard =pasture =quarry =reservoir =vineyard
+//waterway=river =riverbank =stream =canal =dam  
+
+--keep=
+natural=bare_rock =fell =grassland =mud =sand =wetland =wood =beach =water   =glacier =peak 
+place=city =town =village =hamlet =isolated_dwelling =farm 
+landuse=forest =grass =industrial
+waterway=river =stream =canal  
+
+--keep-tags=
+all 
+natural= 
+place= 
+landuse= 
+waterway= 
+ele= 
+type=multipolygon 
+name=

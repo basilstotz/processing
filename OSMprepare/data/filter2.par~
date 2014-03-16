@@ -1,0 +1,18 @@
+--drop-author 
+
+
+--keep=
+natural=bare_rock =fell =grassland =mud =sand =wetland =wood =beach =water   =glacier =peak 
+place=city =town =village =hamlet =isolated_dwelling =farm 
+landuse=forest =grass =industrial
+waterway=river =stream =canal  
+
+--keep-tags=
+all 
+natural= 
+place= 
+landuse= 
+waterway= 
+ele= 
+type=multipolygon 
+name=
